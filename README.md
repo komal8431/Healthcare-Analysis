@@ -1,2 +1,2 @@
 # Healthcare-Analysis
-Healthcare Analysis
+This project provides an interactive dashboard for hospital management to track key metrics like patient visits, bed, and staff availability, revenue by age group, waiting times, and patient feedback. Data from Excel was cleaned and ransformed in power Query, then modeled into fact and dimension tables. The dashboard includes KPI's, charts, custom visuals, drill-downs, and filters for detailed analysis. It helps hospital teams centralize information and make faster, data-driven decisions.
